@@ -10,4 +10,5 @@ You can use my custom iTerm profile by following these steps:
 6. Choose your imported profile ("GitHub iTerm Profile") and set it as your default profile if desired.
 7. Enjoy the double-press Control key shortcut to toggle iTerm!
 
-![Screenshot 2023-10-01 at 3 43 03 PM](https://github.com/MahdiHaeri/Iterm_Configuration/assets/73737391/9c1e16bf-1442-410b-8823-80caf5c0ae4d)
+
+![Screenshot 2023-10-01 at 3 43 03 PM](https://github.com/MahdiHaeri/Iterm_Configuration/assets/73737391/0ec7f099-885d-4db5-98a3-9ae5d0ee1fc0)
